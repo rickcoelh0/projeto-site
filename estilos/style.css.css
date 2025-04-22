@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(240, 248, 255);
+    background-color: rgb(209, 210, 255);
 }
 
 main {
@@ -18,4 +18,8 @@ main {
 h1 {
     font-size: 2em;
     color: rgb(58, 0, 112);
+}
+
+.lado {
+    float: right;
 }
